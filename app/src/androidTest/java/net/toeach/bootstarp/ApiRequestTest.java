@@ -2,11 +2,8 @@ package net.toeach.bootstarp;
 
 import com.alibaba.fastjson.JSON;
 
-import junit.framework.TestCase;
-
 import net.toeach.bootstarp.model.ApiRequest;
 import net.toeach.bootstarp.model.Terminal;
-import net.toeach.bootstarp.model.User;
 
 import java.util.HashMap;
 import java.util.Map;
